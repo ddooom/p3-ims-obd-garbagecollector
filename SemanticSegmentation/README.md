@@ -1,3 +1,8 @@
+# Wrap-Up Report
+- 실험 과정 및 회고 : [Wrap-Up Report](https://github.com/ddooom/p3-ims-obd-garbagecollector/blob/DongWoo/SemanticSegmentation/Seg_Warp_Up_Report.pdf)
+
+<br>
+
 # How to use
 
 ### Check the model
